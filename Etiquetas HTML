@@ -1,0 +1,29 @@
+¿Qué es una etiqueta HTML?
+HTML es un markup language, lo que significa que está escrito con códigos que puede leer una persona sin que sea necesario compilarlo primero. En otras palabras, el texto en una página web está «marcado» con estos códigos para dar instrucciones al navegador web sobre cómo mostrar el texto. Estas etiquetas de marcado son las propias etiquetas HTML.
+
+Cuando escribes código en HTML, estás escribiendo etiquetas HTML. Todas las etiquetas HTML están hechas con un número de partes específicas, incluyendo:
+
+El carácter “menor que” <
+Una palabra o carácter que determina qué etiqueta se está escribiendo
+Cualquier número de atributos HTML que se quiera usar, escritos de la forma nombre=”valor”
+El carácter “mayor que” >
+
+Etiquetas html basicas
+1.- <body> para contenid
+2.- <head> (informacion del documento)
+3.- <div> (division dentro del contendido)
+4.- <a> (enlaces y direcciones)
+5.- <strong> (texto en negrita)
+6.- <br> (saltos de linea)
+7.- <h1>...<h6> para titulos dentro del contenido (de grande a pequeño en este orden)
+8.- <img> (añadir imagenes), <src> (aquí va la url de la imagen)
+9.- <ol> (listas ordenadas)
+10.- <ul> (listas no ordenadas)
+11.- <li> (elementos dentro de la lista)
+12.- <p> (parrafos)
+13.- <span> (estilos de una parte del texto)
+14.- <input> (introduccion de caractereres, numeros, y frases)
+15.- <b> (esta es para sombrear)
+16.- <pre> (para cursiva)
+17.- <alt> (para texto alternativo)
+18.- <lable> (texto)
