@@ -62,3 +62,22 @@ Lista de pendientes
 1. Terminar el tutorial de Markdown
 2. Ir a la tienda de abarrotes
 3. Preparar el almuerzo
+
+color (es para dar color a las letras)
+
+clase se representa por punto (.)
+id se representa por numeral (#)
+
+para poner imagenes en css se usa la etiqueta body{}
+dentro de ella se coloca lo consecuente de el cuerpo de la pagina 
+
+width para ancho
+height para alto
+background-color para color de fondo
+border-radius para añadir bordes
+
+bootstrap para ahorrar tiempo en códigp
+
+material-ui.com para otros tipos de css
+
+aprender a hacer todo lo de bootstrap y parecidos
