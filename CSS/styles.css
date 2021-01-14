@@ -3,8 +3,21 @@
     por clase
     por id
 */
+.texto{
+    color: crimson;
+    font-size: 40px;
+}
 
 h1{
-    color:  #27ae60;
-    font-size: 100px;
+    color:  #65e79b;
+    font-size: 20px;
 }
+
+#titulo{
+    font-family: 'Comic Neue', cursive;
+    text-align: center;
+    border-bottom: 10px dotted black;
+    color: darkgreen;
+    font-weight: 100;
+}
+
