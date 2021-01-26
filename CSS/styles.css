@@ -69,7 +69,14 @@ body{
     font-weight: 602;
 }
 
-.registrarse{
-    color:blanchedalmond;
-    font-family: 'Fraunces', serif;
+.link1{
+    font-weight: 700;
+    color: #05D5ED;
+    background-color: rgba(255, 255, 255, 0);
+    border-style: none;
+
+}
+
+.link1:hover{
+    color: #85F85A;
 }

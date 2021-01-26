@@ -76,8 +76,18 @@ height para alto
 background-color para color de fondo
 border-radius para añadir bordes
 
-bootstrap para ahorrar tiempo en códigp
+bootstrap para ahorrar tiempo en código
 
 material-ui.com para otros tipos de css
 
 aprender a hacer todo lo de bootstrap y parecidos
+
+Tipos de selectores en CSS
+--------------------------
+1. Universal (*), selecciona todos los elementos
+2. De tipo (por nombre de elmentos {h1...h6, button, p, etc})
+3. Clases (class="nombre-clase")
+4. ID (id="nombre-id")
+6. Por atributo (nombre-atributo="nombre"), se colocadentro de corchete [nombre-atributo="nombre"]
+7. Descendiente (por contenedos, desde el de mayor valor, hasta el menor). h1 p{modificaciones}
+8. pseudo-clases (elemento:hover(para cambios del mouse sobre el elemento))
