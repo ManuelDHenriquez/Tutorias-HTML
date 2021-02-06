@@ -42,7 +42,7 @@ body{
 }
 
 .titulo{
-    color: white;
+    color: #F3F3F3;
     font-family: 'Comic Neue', cursive;
     text-align: center;
     font-size: 60px;
@@ -54,14 +54,14 @@ body{
     background-color: #3498db98  ;
     border-radius: 20px;
     padding: 20px;
-    color: white;
+    color: #F3F3F3;
     font-weight: bold;
     font-family: 'Roboto', serif;
 }
 
 .boton{
     width: 100%;
-    color: white;
+    color: #F3F3F3;
     font-weight: bold;
 }
 
@@ -70,6 +70,7 @@ body{
 }
 
 .link{
+    width: 100%;
     font-weight: 700;
     color: #7deffc;
     background-color: rgba(255, 255, 255, 0);
@@ -84,6 +85,18 @@ body{
     border-bottom: 0px;
 }
 
-label{
-    padding-left: 10px;
+
+.caja{
+    border-radius: 2px;
+    border-color: #62F8FD;
+}
+
+.caja:hover{
+    color: #48c3e9;
+    border-bottom: 0px;
+}
+
+.texto1{
+    width: 95%;
+    padding-left: 5px;
 }
