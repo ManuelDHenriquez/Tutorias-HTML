@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.texto{
+    color: crimson;
+    font-size: 40px;
+}
+
+#titulo{
+    font-family: 'Comic Neue', cursive;
+    text-align: center;
+    border-bottom: 10px dotted black;
+    color: darkgreen;
+    font-weight: 100;
+}
+
+body{
+    background-image: url("https://images.unsplash.com/photo-1542435503-956c469947f6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.filtro{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.637);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulario{
+    width: 500px;
+    height: 600px;
+    background-color: #3498db98  ;
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Roboto', serif;
+}
+
+.boton{
+    width: 100%;
+    font-weight: bolder;
+}
+
+.volver{
+    width: 100%;
+    text-align: center;
+}
